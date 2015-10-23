@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/action_setting"
+    android:title="@string/action_settings"
+    android:showAsAction="ifRoom"/>
+<item android:id="@+id/action_refresh"
+    android:title="@string/action_refresh"
+    android:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_help"
+        android:title="@string/action_help"
+        android:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_file"
+        android:title="@string/action_file"
+        android:showAsAction="ifRoom"/>
+</menu>
